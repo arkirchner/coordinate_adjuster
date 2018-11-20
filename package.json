@@ -1,0 +1,31 @@
+{
+  "name": "coordinate_adjuster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arkirchner/coordinate_adjuster.git"
+  },
+  "author": "Armin Kirchner",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/arkirchner/coordinate_adjuster/issues"
+  },
+  "homepage": "https://github.com/arkirchner/coordinate_adjuster#readme",
+  "devDependencies": {
+    "babel-plugin-syntax-dynamic-import": "^6.18.0",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "eslint": "^5.9.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jest": "^22.0.0",
+    "eslint-plugin-jsx-a11y": "^6.1.2",
+    "eslint-plugin-react": "^7.11.1"
+  }
+}
